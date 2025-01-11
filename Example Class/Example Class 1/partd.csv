@@ -1,0 +1,3 @@
+Type,ArraySize,Average Comparisons,Performance (ns)
+MergeSort,1000000,10066432,226578500
+Insert MergeSort,1000000,20441430,201250600
